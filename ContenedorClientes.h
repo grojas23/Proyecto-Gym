@@ -1,5 +1,6 @@
 #pragma once
-class ContenedorClientes
-{
+class ContenedorClientes{
+private: 
+	int tam; 
 };
 
