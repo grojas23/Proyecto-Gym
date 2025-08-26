@@ -125,6 +125,11 @@
   <ItemGroup>
     <ClCompile Include="Cliente.cpp" />
     <ClCompile Include="ConsoleApplication1.cpp" />
+    <ClCompile Include="ContenedorClientes.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ContenedorClientes.h" />
+    <ClInclude Include="Header.h" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Cliente.h" />
