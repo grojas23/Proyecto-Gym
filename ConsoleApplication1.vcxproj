@@ -124,8 +124,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ConsoleApplication1.cpp" />
+    <ClCompile Include="ContenedorClientes.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ContenedorClientes.h" />
     <ClInclude Include="Header.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
