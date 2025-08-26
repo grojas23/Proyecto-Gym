@@ -2,5 +2,6 @@
 class ContenedorClientes{
 private: 
 	int tam; 
+	int cantidad; 
 };
 
